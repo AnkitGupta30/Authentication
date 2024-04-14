@@ -74,7 +74,7 @@ const submitHandler = async () => {
           Login
         </button>
         <div className="flex justify-center items-center my-4 gap-2">
-          <p className="text-blue-500">Don't have an account?</p>
+          <p className="text-blue-500">Don&apos;t have an account?</p>
           <Link
             href={"/signup"}
             className=" cursor-pointer font-semibold hover:underline"
