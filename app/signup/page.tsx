@@ -44,7 +44,7 @@ const SignUpPage = () => {
 }
   
   return (
-    <div className="flex min-h-screen justify-center items-center">
+    <div className="flex mt-12 justify-center items-center">
       <div className="lg:p-20 lg:w-[45vw] p-10">
         <h1 className="text-center font-bold lg:text-2xl text-xl">
           Sign in to your account
